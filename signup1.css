@@ -1,0 +1,121 @@
+.heading1 {
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    color:blueviolet;
+    top:-5px;
+    left: 255px;
+    font-size: 30px;
+}
+.purpose {
+    position: absolute;
+    top: 60px;
+    left: 400px;
+    width: 150px;
+    border-radius:4px ;
+    border-color: blueviolet;
+    color: blueviolet;
+}
+ .organization {
+    position: absolute;
+    top: -40px;
+    left: 200px;
+    color: blueviolet;
+    border-color: blueviolet;
+    border-radius:4px ;
+    width: ;
+}
+.container {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+.fname {
+    border-color:blueviolet;
+    color: blueviolet;
+    border-radius: 4px; 
+}
+    
+.lname {
+    position: absolute;
+    border-radius: 4px;
+    color: blueviolet;
+    top: px;
+    left: 200px;
+    border-color: blueviolet;
+}
+.email {
+    border-color: blueviolet;
+    border-radius: 4px;
+    position: absolute;
+    color: blueviolet;
+    top: px;
+    left: 200px;
+}
+.phonenumber{
+    border-color: blueviolet;
+    border-radius: 4px;
+    position: absolute;
+    top: 40px;
+    color: blueviolet;
+}
+.date {
+    position: absolute;
+    color: blueviolet;
+    top: 67px;
+}
+.fulldate {
+    position: absolute;
+    border-radius: 4px;
+    border-color: blueviolet;
+    color: blueviolet;
+    top: 86px;
+    width: 142px;
+}
+.country {
+    border-color:blueviolet ;
+    border-radius: 4px;
+    position: absolute;
+    top: 184px;
+    left: 600px;
+    color: blueviolet;
+    width: 150px;
+}
+.textarea {
+    border-color:blueviolet ;
+    border-radius: 4px;
+    position: absolute;
+    top: 230px;
+    left: 400px;
+    color: blueviolet;
+    width: 340px;
+}
+.headingforradio {
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    color: blueviolet;
+    top: 320px;
+    left: 400px;
+}
+.radio {
+    position: absolute;
+    top: 370px;
+    left: 400px;
+    width: 340px;
+    color: blueviolet;
+    width: ;
+    border:;
+}
+.create {
+    color: blueviolet;
+    position: absolute;
+    border-radius: 8px;
+    border: solid;
+    border-color: blueviolet;
+    border-width:2px;
+    top: 420px;
+    left: 400px;
+    width: 350px;
+    height: 50px;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

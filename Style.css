@@ -1,0 +1,85 @@
+.first {
+     background-image: linear-gradient(to bottom , rgba(238, 93, 93, 0), rgb(98, 100, 240));
+     width: 100%;
+     height: 100%;
+}
+.list  {
+    list-style-type: none;
+}
+ nav{
+    text-decoration: none;
+    color:rgb(241, 29, 14);
+    position: absolute;
+    top:5px;
+    align-items: center;
+    padding:;
+    border: 1px;
+ }
+ .heading1 {
+        position: absolute;
+        top: -70px;
+        left: 260px;
+        color: gray;
+        font-size: 70px;
+ }
+ .image {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    height: 130px;
+    width: 137px;
+ }
+ .para1 {
+     position: absolute ;
+     left: 700xpx;
+     bottom: 280px;
+     font-size: 25px;
+     color: blueviolet;
+ }
+ .go {
+    position: absolute;
+    left: 360px;
+    top:150px ;
+    bottom: 280px;
+    font-size: 80px;
+    color: rgba(228, 169, 6, 0.575);
+ }
+.para2 {
+    position: absolute;
+    left: 300px;
+    top:500px ;
+    bottom: 400px;
+    font-size:60px;
+    font-style:italic;
+}
+a.login{
+   border: none;
+   padding: 10px;
+   background-colo: ;
+   position:absolute;
+   top: 60px;
+   right: 45px;0px;
+   font-size: 10px;
+}
+.search {
+   position: absolute;
+   bottom: 120px;
+   left: 605px;
+   border-radius: 9px;
+   border-color: brown;
+   border: solid; 
+}
+.place {
+   text-align: center;
+   position: absolute;
+   top: 500px;
+   left: 625px;
+   font-size: 25px;
+   color:black;
+   padding:-7px;
+}
+.signup {
+   position: absolute;
+   top: 70px;
+   right: 120px;
+}
